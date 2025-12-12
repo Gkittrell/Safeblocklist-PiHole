@@ -93,7 +93,7 @@ Feel free to fork, modify, and use this list in your own setup.
 
 # ✅ Author
 
-**Blunder**  
+**Blunder**(Gilbert Kittrell) 
 Maintainer of the Pi‑hole Safe Mode Blocklist  
 Privacy‑focused, stability‑first network configuration
 
