@@ -11,7 +11,7 @@ This repository contains a **Pi‑hole Safe Mode Blocklist** designed for users 
 Add the blocklist URL  
 In Pi‑hole:
 Paste the **Raw GitHub URL** to the `.txt` blocklist file.
-Once list is add, head to your terminal and run this command line:
+Once list is added, head to your terminal and run this command line:
 sudo pihole -g
 
 
